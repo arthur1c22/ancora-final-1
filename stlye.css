@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #17d13f;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #000000;
+}
+
+h2 {
+    color: #000305;
+}
+
+img {
+    width: 900px; /* você pode ajustar o valor */
+    display: block;
+    margin: 30px auto; /* centraliza a imagem */
+}
+
+a {
+    color: #01060e;
+    text-decoration: none;
+    font-weight: bold;
+}
